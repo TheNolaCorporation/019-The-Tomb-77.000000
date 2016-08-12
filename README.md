@@ -3,7 +3,7 @@
 ###私の兄弟安らかに
 
 #ハンドル
-http://www.abovetopsecret.com/forum/thread552771/pg1
+http://bit.ly/2bkYQeL
 
 #ハッシュ ( バイト: 24 )
 md2: 8feddda57dc28a296974617cdd7f8c68
